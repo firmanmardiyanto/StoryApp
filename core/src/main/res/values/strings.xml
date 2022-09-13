@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="unknow_error">Unknown error</string>
+    <string name="sample_name" translatable="false">Sample name</string>
+    <string name="this_is_sample_of_story_description" translatable="false">This is sample of story description</string>
+    <string name="story_image" translatable="false">Story Image</string>
+    <string name="retry">Retry</string>
+</resources>
